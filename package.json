@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React Series by Akshay Saini",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viveksahu23/namaste-react.git"
+  },
+  "author": "Vivek Sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viveksahu23/namaste-react/issues"
+  },
+  "homepage": "https://github.com/viveksahu23/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
